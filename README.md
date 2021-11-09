@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dung Luu
+- 👀 I’m interested in software, game design, AI
+- 🌱 I’m currently learning Full Stack
+- 💞️ I’m looking for jobs: Junior Sofware Developer
+- 📫 How to reach me dung.luu.dev@gmail.com
