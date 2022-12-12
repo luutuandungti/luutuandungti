@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dung Luu
-- 👀 I’m interested in software, game design, AI
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking for jobs: Junior Sofware Developer
+- 👀 I’m interested in software, design pattern, sofware architecture, game design, AI
+- 🌱 I’m currently developing IoT solutions with .Net, Azure, MQTT, OPCUA
+- 💞️ I’m looking for jobs: Sofware Developer
 - 📫 How to reach me dung.luu.dev@gmail.com
