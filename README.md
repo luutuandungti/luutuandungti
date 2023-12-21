@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dung Luu
-- 👀 I’m interested in software, design pattern, sofware architecture, game design, AI
-- 🌱 I’m currently developing IoT solutions with .Net, Azure, MQTT, OPCUA
+- 👀 I’m interested in software development, cloud computing, design pattern, sofware architecture, game design, AI
 - 💞️ I’m looking for jobs: Sofware Developer
 - 📫 How to reach me dung.luu.dev@gmail.com
